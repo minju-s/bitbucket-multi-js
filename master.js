@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         Bitbucket Multi PR
+// @version      1.0.0
 // @match        https://bitbucket.org/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bitbucket.org
 // @grant        none
